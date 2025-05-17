@@ -1,4 +1,4 @@
-# Prolog Assignment - Predicate Practice (`a6.pl`)
+# Prolog Assignment - Predicate Practice (`a6.pl`) - Anwser Key
 
 ## Overview
 
