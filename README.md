@@ -116,5 +116,3 @@ Use the `%` symbol for comments:
 
 * Use the `is` operator for arithmetic when needed, e.g., `R is N1 + 1`.
 * Your predicates do **not** need to handle unbound inputs unless the problem explicitly requires it.
-
-```
