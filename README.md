@@ -30,17 +30,6 @@ The file already contains **unit tests** to validate your implementations. These
 ### To Run Tests:
 
 - Run all unit tests:  
-  ```prolog
-  ?- run_tests.
-````
-
-* Run tests for a specific predicate:
-
-  ```prolog
-  ?- run_tests(predicateName).
-  ```
-
----
 
 ## Problems to Solve
 
