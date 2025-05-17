@@ -39,8 +39,6 @@ Below are the predicates you must implement. For each, provide **clear, detailed
 * The **recursive case**
 * How the predicate works conceptually
 
-> ⚠️ **No use of built-in Prolog predicates** is allowed unless specified. Violations will result in **zero credit**.
-
 ### Required Predicates
 
 1. **oddSize(List)**
