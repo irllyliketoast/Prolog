@@ -1,4 +1,4 @@
-# Prolog Assignment - Predicate Practice (`a6.pl`) - Anwser Key
+# Prolog Assignment - Predicate Practice (`a6.pl`) - My Answer
 
 ## Overview
 
